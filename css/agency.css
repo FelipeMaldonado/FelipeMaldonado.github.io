@@ -61,11 +61,11 @@ h6 {
 }
 
 .bg-light-gray {
-    background-color: #f7f7f7;
+    background-color: #dedede; /* originally #f7f7f7*/
 }
 
 .bg-darkest-gray {
-    background-color: #222;
+    background-color: #c5c5c5;  /* originally #222 */
 }
 
 .btn-primary {
