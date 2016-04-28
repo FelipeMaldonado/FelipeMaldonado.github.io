@@ -61,7 +61,7 @@ h6 {
 }
 
 .bg-light-gray {
-    background-color: #dedede; /* originally #f7f7f7*/
+    background-color: #eaeaea; /* originally #f7f7f7*/
 }
 
 .bg-darkest-gray {
@@ -204,7 +204,7 @@ fieldset[disabled] .btn-xl.active {
     background-color: #fed136;
 }
 
-.navbar-default .nav li a {
+.navbar-default .nav li a {     /* Detailed Bar sections*/
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
