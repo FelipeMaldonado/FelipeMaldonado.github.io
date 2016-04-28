@@ -10,7 +10,7 @@ body {
 }
 
 .text-muted {
-    color: #770;
+    color: #777;
 }
 
 .text-primary {
@@ -18,7 +18,7 @@ body {
 }
 
 p {
-    font-size: 14px;
+    font-size: 10px;
     line-height: 1.75;
 }
 
