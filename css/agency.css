@@ -10,11 +10,11 @@ body {
 }
 
 .text-muted {
-    color: #3663fe;
+    color: #3663fe; /* complementary blue text*/
 }
 
 .text-primary {
-    color: #fed136;
+    color: #fed136; /* yellow text*/
 }
 
 p {
@@ -53,7 +53,7 @@ h5,
 h6 {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-weight: 650;
 }
 
 .img-centered {
