@@ -549,6 +549,9 @@
 .fa-key:before {
   content: "\f084";
 }
+.fa-wind-turbine: {
+  content: "\f89b"
+}
 .fa-gears:before,
 .fa-cogs:before {
   content: "\f085";
