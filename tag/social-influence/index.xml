@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social influence | Felipe Maldonado</title>
+    <link>http://felipemaldonado.github.io/tag/social-influence/</link>
+      <atom:link href="http://felipemaldonado.github.io/tag/social-influence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Social influence</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>2021</copyright><lastBuildDate>Fri, 20 Apr 2018 21:28:45 +0000</lastBuildDate>
+    <image>
+      <url>http://felipemaldonado.github.io/images/icon_hufa1ec64341fe2293133ce99eda65cd87_55154_512x512_fill_lanczos_center_3.png</url>
+      <title>Social influence</title>
+      <link>http://felipemaldonado.github.io/tag/social-influence/</link>
+    </image>
+    
+    <item>
+      <title>Popularity Signals in Trial-Offer Markets with Social Influence and Position Bias</title>
+      <link>http://felipemaldonado.github.io/publication/2018-popularity-signals/</link>
+      <pubDate>Fri, 20 Apr 2018 21:28:45 +0000</pubDate>
+      <guid>http://felipemaldonado.github.io/publication/2018-popularity-signals/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

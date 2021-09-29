@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Johannes Knoerr | Felipe Maldonado</title>
+    <link>http://felipemaldonado.github.io/author/johannes-knoerr/</link>
+      <atom:link href="http://felipemaldonado.github.io/author/johannes-knoerr/index.xml" rel="self" type="application/rss+xml" />
+    <description>Johannes Knoerr</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>2021</copyright><lastBuildDate>Tue, 20 Oct 2020 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://felipemaldonado.github.io/images/icon_hufa1ec64341fe2293133ce99eda65cd87_55154_512x512_fill_lanczos_center_3.png</url>
+      <title>Johannes Knoerr</title>
+      <link>http://felipemaldonado.github.io/author/johannes-knoerr/</link>
+    </image>
+    
+    <item>
+      <title>Pricing in electricity markets - an overview.</title>
+      <link>http://felipemaldonado.github.io/talk/synergie/</link>
+      <pubDate>Tue, 20 Oct 2020 09:00:00 +0000</pubDate>
+      <guid>http://felipemaldonado.github.io/talk/synergie/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

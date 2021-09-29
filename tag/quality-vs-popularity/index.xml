@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quality vs Popularity | Felipe Maldonado</title>
+    <link>http://felipemaldonado.github.io/tag/quality-vs-popularity/</link>
+      <atom:link href="http://felipemaldonado.github.io/tag/quality-vs-popularity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Quality vs Popularity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>2021</copyright><lastBuildDate>Sat, 09 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://felipemaldonado.github.io/images/icon_hufa1ec64341fe2293133ce99eda65cd87_55154_512x512_fill_lanczos_center_3.png</url>
+      <title>Quality vs Popularity</title>
+      <link>http://felipemaldonado.github.io/tag/quality-vs-popularity/</link>
+    </image>
+    
+    <item>
+      <title>Asymptotic Optimality of Myopic Optimization in Trial-Offer Markets with Social Influence</title>
+      <link>http://felipemaldonado.github.io/publication/2016-performance-ranking/</link>
+      <pubDate>Sat, 09 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://felipemaldonado.github.io/publication/2016-performance-ranking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aligning Popularity and Quality in Online Cultural Markets</title>
+      <link>http://felipemaldonado.github.io/publication/2016-aligning-pop/</link>
+      <pubDate>Tue, 17 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://felipemaldonado.github.io/publication/2016-aligning-pop/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

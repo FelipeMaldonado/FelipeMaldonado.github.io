@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matching Markets | Felipe Maldonado</title>
+    <link>http://felipemaldonado.github.io/tag/matching-markets/</link>
+      <atom:link href="http://felipemaldonado.github.io/tag/matching-markets/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matching Markets</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>2021</copyright>
+    <image>
+      <url>http://felipemaldonado.github.io/images/icon_hufa1ec64341fe2293133ce99eda65cd87_55154_512x512_fill_lanczos_center_3.png</url>
+      <title>Matching Markets</title>
+      <link>http://felipemaldonado.github.io/tag/matching-markets/</link>
+    </image>
+    
+    <item>
+      <title>Auction Theory and Market Design (IN2211)- Technical University of Munich</title>
+      <link>http://felipemaldonado.github.io/teaching/auction-theory-and-market-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://felipemaldonado.github.io/teaching/auction-theory-and-market-design/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
