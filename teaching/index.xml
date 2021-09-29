@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching | Felipe Maldonado</title>
+    <link>http://felipemaldonado.github.io/teaching/</link>
+      <atom:link href="http://felipemaldonado.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>2021</copyright><lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://felipemaldonado.github.io/images/icon_hufa1ec64341fe2293133ce99eda65cd87_55154_512x512_fill_lanczos_center_3.png</url>
+      <title>Teaching</title>
+      <link>http://felipemaldonado.github.io/teaching/</link>
+    </image>
+    
+    <item>
+      <title>Dynammic Programming and Reinforcement Learning (MA338) - University of Essex</title>
+      <link>http://felipemaldonado.github.io/teaching/dynammic-programming-and-reinforcement-learning/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://felipemaldonado.github.io/teaching/dynammic-programming-and-reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auction Theory and Market Design (IN2211)- Technical University of Munich</title>
+      <link>http://felipemaldonado.github.io/teaching/auction-theory-and-market-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://felipemaldonado.github.io/teaching/auction-theory-and-market-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Economics (ECON4414)- Australian National University</title>
+      <link>http://felipemaldonado.github.io/teaching/computational-economics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://felipemaldonado.github.io/teaching/computational-economics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
