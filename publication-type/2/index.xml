@@ -5,12 +5,36 @@
     <link>http://felipemaldonado.github.io/publication-type/2/</link>
       <atom:link href="http://felipemaldonado.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>2021</copyright><lastBuildDate>Fri, 20 Apr 2018 21:28:45 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>2021</copyright><lastBuildDate>Fri, 08 Jul 2022 21:28:45 +0000</lastBuildDate>
     <image>
       <url>http://felipemaldonado.github.io/images/icon_hufa1ec64341fe2293133ce99eda65cd87_55154_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>http://felipemaldonado.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Pricing in Nonconvex Markets: How to Price Electricity in the Presence of Demand Response</title>
+      <link>http://felipemaldonado.github.io/publication/2022-infor-systems/</link>
+      <pubDate>Fri, 08 Jul 2022 21:28:45 +0000</pubDate>
+      <guid>http://felipemaldonado.github.io/publication/2022-infor-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why Do Pricing Rules Matter? Electricity Market Design with Electric Vehicle Participants</title>
+      <link>http://felipemaldonado.github.io/publication/2022-ev-pricing/</link>
+      <pubDate>Wed, 22 Jun 2022 21:28:45 +0000</pubDate>
+      <guid>http://felipemaldonado.github.io/publication/2022-ev-pricing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electricity Markets in a Time of Change: A Call to Arms for Business Research</title>
+      <link>http://felipemaldonado.github.io/publication/2021-call-to-arms/</link>
+      <pubDate>Wed, 05 Jan 2022 21:28:45 +0000</pubDate>
+      <guid>http://felipemaldonado.github.io/publication/2021-call-to-arms/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Popularity Signals in Trial-Offer Markets with Social Influence and Position Bias</title>
