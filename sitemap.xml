@@ -20,9 +20,6 @@
     <loc>http://felipemaldonado.github.io/</loc>
     <lastmod>2022-07-08T21:28:45+00:00</lastmod>
   </url><url>
-    <loc>http://felipemaldonado.github.io/author/felipe-maldonado/</loc>
-    <lastmod>2022-07-08T21:28:45+00:00</lastmod>
-  </url><url>
     <loc>http://felipemaldonado.github.io/author/knorr-johannes/</loc>
     <lastmod>2022-07-08T21:28:45+00:00</lastmod>
   </url><url>
@@ -36,9 +33,6 @@
     <lastmod>2022-07-08T21:28:45+00:00</lastmod>
   </url><url>
     <loc>http://felipemaldonado.github.io/publication_types/</loc>
-    <lastmod>2022-07-08T21:28:45+00:00</lastmod>
-  </url><url>
-    <loc>http://felipemaldonado.github.io/publication/</loc>
     <lastmod>2022-07-08T21:28:45+00:00</lastmod>
   </url><url>
     <loc>http://felipemaldonado.github.io/tags/</loc>
@@ -84,9 +78,6 @@
     <lastmod>2022-01-05T21:28:45+00:00</lastmod>
   </url><url>
     <loc>http://felipemaldonado.github.io/project/supply-chain/</loc>
-    <lastmod>2021-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://felipemaldonado.github.io/project/</loc>
     <lastmod>2021-07-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://felipemaldonado.github.io/tag/reinforcement-learning-supply-chain-incomplete-information/</loc>
@@ -155,9 +146,6 @@
     <loc>http://felipemaldonado.github.io/tag/q-learning/</loc>
     <lastmod>2021-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://felipemaldonado.github.io/teaching/</loc>
-    <lastmod>2021-01-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://felipemaldonado.github.io/publication-type/3/</loc>
     <lastmod>2020-12-20T21:28:45+00:00</lastmod>
   </url><url>
@@ -189,9 +177,6 @@
     <lastmod>2020-10-20T09:00:00+00:00</lastmod>
   </url><url>
     <loc>http://felipemaldonado.github.io/talk/synergie/</loc>
-    <lastmod>2020-10-20T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://felipemaldonado.github.io/talk/</loc>
     <lastmod>2020-10-20T09:00:00+00:00</lastmod>
   </url><url>
     <loc>http://felipemaldonado.github.io/talk/euro2019/</loc>
@@ -231,8 +216,10 @@
     <lastmod>2016-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://felipemaldonado.github.io/featured/</loc>
+    <lastmod>2021-05-28T21:49:20+01:00</lastmod>
   </url><url>
     <loc>http://felipemaldonado.github.io/students/</loc>
+    <lastmod>2021-05-28T21:49:20+01:00</lastmod>
   </url><url>
     <loc>http://felipemaldonado.github.io/teaching/auction-theory-and-market-design/</loc>
   </url><url>
@@ -242,6 +229,9 @@
   </url><url>
     <loc>http://felipemaldonado.github.io/teaching/computational-economics/</loc>
   </url><url>
+    <loc>http://felipemaldonado.github.io/author/felipe-maldonado/</loc>
+    <lastmod>2021-05-28T21:49:20+01:00</lastmod>
+  </url><url>
     <loc>http://felipemaldonado.github.io/tag/game-theory-and-mechanism-design/</loc>
   </url><url>
     <loc>http://felipemaldonado.github.io/tag/markov-chain/</loc>
@@ -249,9 +239,23 @@
     <loc>http://felipemaldonado.github.io/tag/matching-markets/</loc>
   </url><url>
     <loc>http://felipemaldonado.github.io/post/</loc>
+    <lastmod>2021-05-28T21:49:20+01:00</lastmod>
+  </url><url>
+    <loc>http://felipemaldonado.github.io/project/</loc>
+    <lastmod>2021-05-28T21:49:20+01:00</lastmod>
+  </url><url>
+    <loc>http://felipemaldonado.github.io/publication/</loc>
+    <lastmod>2021-05-28T21:49:20+01:00</lastmod>
   </url><url>
     <loc>http://felipemaldonado.github.io/author/richstein-jorn-c./</loc>
   </url><url>
+    <loc>http://felipemaldonado.github.io/talk/</loc>
+    <lastmod>2021-05-28T21:49:20+01:00</lastmod>
+  </url><url>
+    <loc>http://felipemaldonado.github.io/teaching/</loc>
+    <lastmod>2021-05-28T21:49:20+01:00</lastmod>
+  </url><url>
     <loc>http://felipemaldonado.github.io/links/</loc>
+    <lastmod>2021-05-28T21:49:20+01:00</lastmod>
   </url>
 </urlset>
